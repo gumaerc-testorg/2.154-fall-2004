@@ -4,8 +4,13 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following
   topics: rotation of refrence frames, diffrential rotations, rate of change of euler
   angles and dead reckoning.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/bc67e15b31b4f30aceabef2a66a6229d_lec1.pdf
+file: /media/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/bc67e15b31b4f30aceabef2a66a6229d_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: bc67e15b-31b4-f30a-ceab-ef2a66a6229d

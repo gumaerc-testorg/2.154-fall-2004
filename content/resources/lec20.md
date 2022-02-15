@@ -5,8 +5,13 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: problem statement, an equation for ?, H as a function of ?, properties of
   the solution, combination of LQR and KF, proofs of the intermediate results and
   proof of the separation principle.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/84e159fd96452ec054d0036e44596c40_lec20.pdf
+file: /media/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/84e159fd96452ec054d0036e44596c40_lec20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec20.pdf
 uid: 84e159fd-9645-2ec0-54d0-036e44596c40

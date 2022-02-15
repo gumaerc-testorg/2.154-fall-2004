@@ -5,8 +5,13 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: Full state feedback, the maximum principle, gradient method, LQR solution,
   Optimal Full-State Feedback, properties, use of LQR and proof of the gain and phase
   margins.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/2d5318503b8f97d5a5255596fcf2e3f1_lec19.pdf
+file: /media/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/2d5318503b8f97d5a5255596fcf2e3f1_lec19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19.pdf
 uid: 2d531850-3b8f-97d5-a525-5596fcf2e3f1

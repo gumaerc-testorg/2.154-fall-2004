@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 ---
@@ -84,7 +87,7 @@ Contents
     8.4 Net Effects: Aerodynamic Center  
     8.5 Role of Fins in Moving the Aerodynamic Center  
     8.6 Aggregate Effects of Body and Fins  
-    8.7 Coefficients _Zw_, _Mw_, _Zq_, and _Mq_ for a Slender Body  
+    8.7 Coefficients _Z{{< sub "w" >}}_, _M{{< sub "w" >}}_, _Z{{< sub "q" >}}_, and _M{{< sub "q" >}}_ for a Slender Body  
     
 9.  **Slender-Body Theory** ([PDF]({{< baseurl >}}/resources/lec9))  
       
