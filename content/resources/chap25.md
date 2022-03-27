@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d8b7f02d-52c8-bcae-6416-5f9cc30a27f1
 resourcetype: Document
 title: chap25.pdf
 uid: de07d0a8-4cf5-b3b6-2512-de6e0074b982
