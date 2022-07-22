@@ -7,6 +7,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec12.pdf
 uid: 3eb3728a-69a0-e5c3-a809-e4111f7e036d
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: steady propulsion of vessels and unsteady propulsion models.
-

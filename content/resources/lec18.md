@@ -8,6 +8,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lec18.pdf
 uid: 75043eeb-fecc-bf59-75c0-3c5caaf10f96
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: roots of stability, design for normal performance, robustness and robust performance.
-

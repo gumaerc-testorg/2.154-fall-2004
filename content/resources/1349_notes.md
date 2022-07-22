@@ -6,6 +6,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 1349_notes.pdf
 uid: 2609f8b1-bdeb-e456-6891-080afe007f51
 ---
 Full text of the lecture notes for the course. Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.
-

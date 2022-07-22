@@ -7,6 +7,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec14.pdf
 uid: 2dd16f48-d577-bd52-b784-431d5750b659
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: statics, linear dynamics, cable strumming and vechile design.
-

@@ -9,6 +9,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec9.pdf
 uid: 4645bed2-9545-bfe6-c664-5c29a6906752
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: kinematics following the fluid, derivative following the fluid, differential force on the body, total force on a vessel, total moment on a vessel, relation to wing lift and convention: hydrodynamic mass matrix A.
-

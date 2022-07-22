@@ -9,6 +9,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec2.pdf
 uid: e03c795c-0b4a-1816-7b28-f93256ab201f
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: momentum of a particle, linear momentum in a moving frame, example: mass on a string, angular momentum, example: spinning book, parallel axis theorem and basics for simulation.
-

@@ -9,6 +9,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec19.pdf
 uid: 2d531850-3b8f-97d5-a525-5596fcf2e3f1
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: Full state feedback, the maximum principle, gradient method, LQR solution, Optimal Full-State Feedback, properties, use of LQR and proof of the gain and phase margins.
-

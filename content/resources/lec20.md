@@ -9,6 +9,7 @@ file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec20.pdf
 uid: 84e159fd-9645-2ec0-54d0-036e44596c40
 ---
 Section from the course lecture notes (Triantafyllou, Michael S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following topics: problem statement, an equation for ?, H as a function of ?, properties of the solution, combination of LQR and KF, proofs of the intermediate results and proof of the separation principle.
-
