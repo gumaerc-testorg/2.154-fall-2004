@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: matrix exponencial, forced response and controllability, plant output and
   observability.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/e47a9fbd6f6b7874d7d093b80360e98e_lec17.pdf
+file_size: 126663
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: Kinetic energy of the fluid, Kirchhoff''s relations, fluid inertia terms,
   derivation of kirchhoff''s relations, nomenclature.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/d43f9625ff522c1a211b18c168021ea6_lec23.pdf
+file_size: 162669
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
