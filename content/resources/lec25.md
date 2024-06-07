@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: tools, schur complement, comments on linear matrix inequalities, parametric
   uncertainty in A and B matrices, and input non linearities.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/47b43174b2b22fe95df1f3fdde8219be_lec25.pdf
+file_size: 369802
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

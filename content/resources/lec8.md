@@ -6,6 +6,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   center, role of fins in moving the aerodynamic center, aggregate effects of body
   and fins and coeffcients Zw, Mw, Zq, and Mq for a slender body.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/a13938a09eb13e7d8be464545141aaab_lec8.pdf
+file_size: 129079
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

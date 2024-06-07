@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: dieudonne spiral, zig-zag maneuver, circle maneuver and heeling in submarines
   with sails.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/f0388b3e8af418d2cc750882096e93ef_lec7.pdf
+file_size: 101130
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

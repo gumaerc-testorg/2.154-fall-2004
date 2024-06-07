@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: Use of nondimensional groups, Common groups in marine engineering, similitude
   in maneuvering and roll equation similitude.'
 file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/dd2b3f06232fe4d7f919712f60be10ab_lec5.pdf
+file_size: 151501
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
