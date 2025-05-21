@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/b679f34da3f91fbc5d5e00db72b95f86_homework_4.pdf
+file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/b679f34da3f91fbc5d5e00db72b95f86_homework_4.pdf
 file_size: 53924
 file_type: application/pdf
 learning_resource_types:
