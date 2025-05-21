@@ -4,7 +4,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following
   topics: Use of nondimensional groups, Common groups in marine engineering, similitude
   in maneuvering and roll equation similitude.'
-file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/dd2b3f06232fe4d7f919712f60be10ab_lec5.pdf
+file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/dd2b3f06232fe4d7f919712f60be10ab_lec5.pdf
 file_size: 151501
 file_type: application/pdf
 learning_resource_types:
