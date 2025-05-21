@@ -5,7 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: kinematics following the fluid, derivative following the fluid, differential
   force on the body, total force on a vessel, total moment on a vessel, relation to
   wing lift and convention: hydrodynamic mass matrix A.'
-file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/4645bed29545bfe6c6645c29a6906752_lec9.pdf
+file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/4645bed29545bfe6c6645c29a6906752_lec9.pdf
 file_size: 132567
 file_type: application/pdf
 learning_resource_types:

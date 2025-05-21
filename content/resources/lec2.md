@@ -5,7 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: momentum of a particle, linear momentum in a moving frame, example: mass
   on a string, angular momentum, example: spinning book, parallel axis theorem and
   basics for simulation.'
-file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/e03c795c0b4a18167b28f93256ab201f_lec2.pdf
+file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/e03c795c0b4a18167b28f93256ab201f_lec2.pdf
 file_size: 185470
 file_type: application/pdf
 learning_resource_types:

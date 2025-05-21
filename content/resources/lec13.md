@@ -4,7 +4,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   Franz S. Hover. Maneuvering and Control of Marine Vehicles.) covering the following
   topics: basics relations, DC motors, three phase synchronous motor and three phase
   induction motors.'
-file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/ce5eaf21d79aa48ece7b44d190952777_lec13.pdf
+file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/ce5eaf21d79aa48ece7b44d190952777_lec13.pdf
 file_size: 158930
 file_type: application/pdf
 learning_resource_types:
