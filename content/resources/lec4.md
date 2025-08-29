@@ -5,7 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: surface vessel linear model, stability of the Sway/Yaw system, response
   of the vessel to Step Rudder input, summary of linear maneuvering model, and stability
   in the vertical plane.'
-file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/60c0fd4282cd51dae530313f2a678790_lec4.pdf
+file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/60c0fd4282cd51dae530313f2a678790_lec4.pdf
 file_size: 173533
 file_type: application/pdf
 learning_resource_types:

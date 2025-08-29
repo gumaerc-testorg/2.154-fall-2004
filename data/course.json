@@ -55,9 +55,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "de00d256-573d-4c73-a3bb-31ad8d750513",
   "site_short_id": "2.154-fall-2004",
+  "site_url_path": "courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004",
   "title": "Course Metadata"
 }
