@@ -2,7 +2,7 @@
 content_type: resource
 description: This project asks the student to carry out modeling and control system
   design for the surge dynamics of an oceanic cable-laying vessel.
-file: /courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/de07d0a84cf5b3b62512de6e0074b982_chap25.pdf
+file: /ol-ocw-studio-app/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/de07d0a84cf5b3b62512de6e0074b982_chap25.pdf
 file_size: 111073
 file_type: application/pdf
 learning_resource_types:
